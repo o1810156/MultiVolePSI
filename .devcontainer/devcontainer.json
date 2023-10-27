@@ -1,0 +1,6 @@
+{
+    "image": "multi_vole_psi_4",
+    "mounts": [
+      "source=./MultiVolePSI,target=/MultiVolePSI,type=bind,consistency=cached"
+    ]
+  }

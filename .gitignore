@@ -1,0 +1,5 @@
+.vscode/
+*.txt
+ごみばこ/
+退避/
+!CMakeLists.txt
